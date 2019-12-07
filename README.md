@@ -21,7 +21,7 @@ top right bell notification icon with little blue circle - mail status unread
 ## Notification daily, hourly routine
  if nothing attracting attention > Mark all as read
 
--vcheck daily mostly company projects code base front end / backend
+- check daily mostly company projects code base front end / backend
 accross most activity 
 
 ### essential actions one click 
