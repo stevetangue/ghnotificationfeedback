@@ -12,31 +12,34 @@ top right bell notification icon with little blue circle - mail status unread
  
 ## Notification Page original 
 
-unread notification by default 
-divided by repository that i am watching 
-provide good overview summary of current activities per projects/repo 
-can then scan through - better context (a bit like readng a Heading then move onto reading paragraph or dot points
+- unread notification by default 
+- divided by repository that i am watching
+- provide good overview summary of current activities per projects/repo 
+- can then scan through 
+- better context (a bit like readng a Heading then move onto reading paragraph or dot points
 
 ## Notification daily, hourly routine
+ if nothing attracting attention > Mark all as read
 
-if nothing attracting attention > Mark all as read
-
-daily mostly company projects code base front end / backend
+-vcheck daily mostly company projects code base front end / backend
 accross most activity 
 
-Mark all as read - All repositories
-Mark all as read - Single repository
-Mark as read - single notificaiton
+### essential actions one click 
+- Mark all as read - All repositories
+- Mark all as read - Single repository
+- Mark as read - single notificaiton
 
 rarely save for later...
 
+
+## Usage 
+
 Usually look for any new notification that require:
-- contribute in reviewing code an give feedback
-- update my code based on others feedback
-- interest in other repository contributions for learning, curiosity, be kept updated on progress,
-
-## Type Purpose 
-
-Accross all Work repo -> all Front end, Backend, DevOps code contributions 
-Personal repo -> security vulnerability 
-Open Source -> RFC (request for comments), other comments 
+- contributing in review code an give feedback
+- updating my code based on others feedback and recommendations
+- also interested in other repository contributions for learning, curiosity, be kept updated on progress,
+ 
+### examples
+- Accross all repositories at work -> all disciplines Front end, Backend, DevOps code contributions 
+- Personal repo -> security vulnerability 
+- Open Source -> RFC (request for comments), other comments 
